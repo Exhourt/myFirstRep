@@ -1,2 +1,3 @@
 This is a test !
-Let's start another conflict !
+Let's start another conflict ! I have now resolved the conflict
+
